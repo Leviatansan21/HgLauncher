@@ -57,24 +57,24 @@
     <!-- Credits dialog. -->
     <string name="about_credits_dialog_title">Créditos</string>
     <string name="about_credits">Créditos</string>
-    <string name="about_credits_desc">Créditos para todas las personas que han participado en este lanzador.</string>
+    <string name="about_credits_desc">このランチャーに参加したすべての人々へのクレジット.</string>
 
     <!-- Customizations -->
     <string name="app_theme">アプリケーションの外観</string>
-    <string name="app_theme_light">Claro</string>
-    <string name="app_theme_dark">Oscuro</string>
-    <string name="app_theme_black">Negro</string>
+    <string name="app_theme_light">確かに</string>
+    <string name="app_theme_dark">濃い</string>
+    <string name="app_theme_black">黒</string>
 
-    <string name="windowbar_mode">Ocultar las barras del sistema</string>
-    <string name="windowbar_mode_none">Deshabilitado</string>
-    <string name="windowbar_mode_status">Ocultar la barra de estado</string>
-    <string name="windowbar_mode_nav">Ocultar la barra de navegación</string>
-    <string name="windowbar_mode_both">Ocultar ambas</string>
+    <string name="windowbar_mode">システムバーを非表示にする</string>
+    <string name="windowbar_mode_none">無効</string>
+    <string name="windowbar_mode_status">ステータスバーを隠す</string>
+    <string name="windowbar_mode_nav">ナビゲーションバーを非表示にする</string>
+    <string name="windowbar_mode_both">両方を隠す</string>
 
-    <string name="gesture_left">Deslizar hacia la izquierda</string>
-    <string name="gesture_right">Deslizar hacia la derecha</string>
-    <string name="gesture_up">Deslizar hacia arriba</string>
-    <string name="gesture_down">Deslizar hacia abajo</string>
+    <string name="gesture_left">左にスワイプ</string>
+    <string name="gesture_right">右にスワイプ</string>
+    <string name="gesture_up">上にスライド</string>
+    <string name="gesture_down">下にスライド</string>
     <string name="gesture_single_tap">Pulsar</string>
     <string name="gesture_double_tap">Doble pulsación</string>
 
