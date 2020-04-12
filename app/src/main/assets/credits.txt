@@ -13,6 +13,7 @@ Contributors:
 - Pavle Radosavljević
 - Scott MacDonald
 - WaldiS
+- Leviatansan21
 
 Libraries and others:
 - AndroidX Support Libraries: Google and contributors (https://android.googlesource.com/platform/frameworks/support). Licensed under Apache v2.
